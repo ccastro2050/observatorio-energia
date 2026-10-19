@@ -6,7 +6,7 @@
 
 | Nombre | Usuario GitHub | Rol |
 |---|---|---|
-| | | Líder técnico / Data Engineer |
+| Carlos Arturo Castro | ccastro2050 | Líder técnico / Data Engineer |
 | | | Data Quality Analyst |
 | | | Analytics Engineer |
 | | | BI Analyst / Storyteller |
