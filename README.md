@@ -1,4 +1,5 @@
 # Observatorio Energía y Clima – Equipo <nombre>
+![pipeline](https://github.com/ccastro2050/observatorio-energia/actions/workflows/pipeline.yml/badge.svg)
 
 > Proyecto Integrado IV – Integración de Información · IU Digital de Antioquia · 2026-2
 
